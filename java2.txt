@@ -21,6 +21,8 @@ public class RectangleArea {
         System.out.printf(" Area of a Rectangle is %.2f ", Width * Long);
          
         scan.close();
+        
+        few nutchanat;
     }
 }
  
